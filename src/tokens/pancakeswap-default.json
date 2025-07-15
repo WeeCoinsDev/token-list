@@ -104,9 +104,9 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
   },
   {
+    "name": "WCP Token",
     "chainId": 56,
     "address": "0x782029FA3f517754afb692C1A691896053800394",
-    "name": "WCP Token",
     "symbol": "WCP",
     "decimals": 8,
     "logoURI": "https://backoffice.weecoins.org/theme_images/256x256.png"
